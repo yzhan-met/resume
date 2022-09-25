@@ -1,6 +1,6 @@
 basic:
   name: Yizhe Zhan
-  title: Remote Sensing Research Scientist / Scientific Algorithm & Application Developer
+  title: Remote Sensing Research Scientist / Scientific Application Developer
   avatar:
     display: false
     path: profile.png
@@ -96,6 +96,7 @@ education:
       degree: PhD
       details: |
         Supervisor: Prof. Roger Davies
+
         Dissertation: The Darkening Arctic from Space: Quantification and Application
 
     - university: Nanjing University of Information, Science and Technology (China)
@@ -104,6 +105,7 @@ education:
       degree: Master
       details: |
         Supervisor: Prof. Zhenhui Wang
+
         Dissertation: Preliminary study of retrieving "clear region" AMVs using FY-2E split window data
 
     - university: Nanjing University of Information, Science and Technology (China)
@@ -114,19 +116,24 @@ education:
 
 certificates:
   display: true
-  title: Certificates
+  title: ONLINE EDUCATION
   items:
-    - name: Course Foo
-      authority: Coursera
+    - name: AWS Certificated Developer Associate
+      authority: Udemy
+      time: 2021
+      link: https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
+      # details: |
+      #   It's my Course Foo certificate by coursera.
+    - name: Full Stack Web Development Guide
+      authority: Udemy
+      time: 2021
+      link: https://www.udemy.com/course/html5-css3-z/
+      # details: |
+    - name: Complete Python Bootcamp from Zero to Hero in Python
+      authority: Udemy
       time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+      link: https://www.udemy.com/course/complete-python-bootcamp/
+      # details: |
 
 skills:
   display: true
