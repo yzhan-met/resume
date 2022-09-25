@@ -66,7 +66,7 @@ experiences:
       tag:
       location: Champaign, US
       details: |
-        Main achivement:
+        Main work:
         + Developed cloud mask algorithm for NASA's MAIA mission
         + Analysed global radiance trends using EOS-Terra data
 
@@ -158,17 +158,41 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
+    Recent Publications
 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
+    - title: Big Earth Data Intelligence for Environmental Modeling
+      authors: Liu, P., Zhang, Z., Haq, M.A., and Zhan Y.
+      conference: Frontiers Media SA, 2022
+      link: 10.3389/fenvs.2022.917590
+    - title: Assessment and Error Analysis of Terra-MODIS and MISR Cloud-Top Heights Through Comparison With ISS-CATS Lidar
+      authors: Mitra, A., Di Girolamo, L., Hong, Y., Zhan, Y., & Mueller, K. J.
+      conference: Journal of Geophysical Research Atmospheres, 2021
+      link: 10.1029/2020JD034281
+    - title: The Reduction in Near-Global Cloud Cover After Correcting for Biases Caused by Finite Resolution Measurements
+      authors: Dutta, S., Di Girolamo, L., Dey, S., Zhan, Y., Moroney, C. M., & Zhao, G.
+      conference: Geophysical Research Letters, 2020
+      link: 10.1029/2020GL090313
+    - title: PYTAF - a python tool for spatially resampling Earth observation data. Earth Science Informatics
+      authors: Zhao, G., Yang M., Gao Y., Zhan Y., Lee H.-K., Di Girolamo, L.
+      conference: Earth Science Informatics, 2020
+      link: 10.1007/s12145-020-00461-w
+    - title: MAIA Level 1 Cloud Mask Algorithm Theoretical Basis
+      authors: Di Girolamo, L., Zhan Y., Zhao G., et al.
+      conference: Earth Science Informatics, 2019
       link:
+    - title: Instantaneous top-of-atmosphere albedo comparison between CERES and MISR over the Arctic
+      authors: Zhan Y., Di Girolamo, L., Davies R., and Moroney C.
+      conference: Remote Sensing, 2018
+      link: 10.3390/rs10111858
+    - title: September Arctic sea-ice extent indicated by reflected solar radiation
+      authors: Zhan Y., and Davies R.
+      conference: Journal of Geophysical Research Atmospheres, 2017
+      link: 10.1002/2016JD025819
+    - title: Intercalibration of CERES, MODIS, and MISR reflected solar radiation and its application to albedo trends
+      authors: Zhan Y., and Davies R.
+      conference: Journal of Geophysical Research Atmospheres, 2016
+      link: 10.1002/2016JD025073
 
 languages:
   display: false
