@@ -33,35 +33,41 @@ profile:
     + Python / Fortran / Bash Shell / MPI
     + Big data analysis
     + Statistical / Machine Learning
-    + Linux application development and deployment
+    + Scientific application development and deployment
 
 experiences:
   display: true
   title: WORK EXPERIENCE
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Senior Research Scientist
+      time: 2022 - Present
+      company: Metservice
       tag:
-      location: Beijing
+      location: Wellington
       details: |
         Experience in this company:
         + First
         + Second
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Research Scientist
+      time: 2019 - 2022
+      company: Metservice
+      tag:
+      location: Wellington
       details: |
         Experience in this company:
         + First
         + Second
 
-        ...
+    - role: Adjunct Research Assistant Professor
+      time: 2020 - Present
+      company: University of Illinois at Urbana-Champaign
+      tag:
+      location: US
+      details: |
+        Experience in this company:
+        + First
+        + Second
 
 projects:
   display: true
@@ -79,6 +85,48 @@ projects:
       link:
       details: |
         Project Bar's detail, you can write markdown format text.
+
+education:
+  display: true
+  title: Education
+  items:
+    - university: University of Auckland (New Zealand)
+      time: 2013 - 2017
+      major: Atmospheric Physics
+      degree: PhD
+      details: |
+        Supervisor: Prof. Roger Davies
+        Dissertation: The Darkening Arctic from Space: Quantification and Application
+
+    - university: Nanjing University of Information, Science and Technology (China)
+      time: 2010 - 2013
+      major: Atmospheric Remote Sensing
+      degree: Master
+      details: |
+        Supervisor: Prof. Zhenhui Wang
+        Dissertation: Preliminary study of retrieving "clear region" AMVs using FY-2E split window data
+
+    - university: Nanjing University of Information, Science and Technology (China)
+      time: 2006 - 2010
+      major: Meteorology
+      degree: Bachelor
+      # details: |
+
+certificates:
+  display: true
+  title: Certificates
+  items:
+    - name: Course Foo
+      authority: Coursera
+      time: 2020
+      link:
+      details: |
+        It's my Course Foo certificate by coursera.
+    - name: Course Bar
+      authority: Coursera
+      time: 2020
+      link: https://www.google.com
+      details: |
 
 skills:
   display: true
@@ -98,48 +146,6 @@ skills:
     - name: Skill C
       level: 70
 
-education:
-  display: true
-  title: Education
-  items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-certificates:
-  display: true
-  title: Certificates
-  items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
 publications:
   display: true
   title: Publications
@@ -156,15 +162,8 @@ publications:
       conference: Foobar, 2019
       link:
 
-patents:
-  display: true
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -173,7 +172,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -182,7 +181,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -192,7 +191,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
