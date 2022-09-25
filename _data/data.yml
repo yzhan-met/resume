@@ -30,10 +30,11 @@ profile:
   title: HIGHLIGHTS
   details: |
     + Ph.D in Atmospheric Phyiscs
-    + Python / Fortran / Bash Shell / MPI
-    + Big data analysis
-    + Statistical / Machine Learning
     + Scientific application development and deployment
+    + Proficiency in large-scale data analysis
+    + Familiar with various weather and climate data sets
+    + Familiar with RTM, statistics and machine learning
+    + Familiar with the AWS cloud
 
 experiences:
   display: true
@@ -43,31 +44,30 @@ experiences:
       time: 2022 - Present
       company: Metservice
       tag:
-      location: Wellington
+      location: Wellington, NZ
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Main duty:
+        + Develop and maintain operational satellite systems
+        + Improve and maintain statistical rainfall and wind nowcasting systems
 
     - role: Research Scientist
       time: 2019 - 2022
       company: Metservice
       tag:
-      location: Wellington
+      location: Wellington, NZ
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Main duty:
+        + Develop and maintain operational satellite systems
 
     - role: Adjunct Research Assistant Professor
       time: 2020 - Present
       company: University of Illinois at Urbana-Champaign
       tag:
-      location: US
+      location: Champaign, US
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Main duty:
+        + Help supervising PhD students' research work
+        + Help with technical questions
 
 projects:
   display: true
