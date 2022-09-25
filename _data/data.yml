@@ -146,9 +146,9 @@ skills:
     + Use data pipeline and Jenkins in daily work.
 
   levels:
-    - name: Programming and data analysis
+    - name: Data analysis
       level: 90
-    - name: Scientific report writing
+    - name: Report writing
       level: 90
     - name: Presentations
       level: 80
@@ -201,12 +201,12 @@ patents:
   display: true
   title: Invited Talks
   details: |
-    + 2022. New Zealand Rainfall Nowcasting System, RainCast, WMO Aeronautical Meteorology Scientific Webinars.
-    + 2021. Introduction to cloud-based satellite systems at MetService, 11th AOMSUC & 2021 FY Conference.
-    + 2018. Global spectral and texture trends as observed from Terra. AGU Fall Meeting.
-    + 2018. June TOA albedo: A feasible indicator of Arctic September sea ice extent, MISR Science Team Meeting.
-    + 2016. September sea-ice extent predicted by June reflected solar radiation. 35th International Radiation Symposium.
-    + 2016. Comparison of CERES and MISR retrieved top-of-atmosphere albedo over the Arctic. AGU Fall Meeting.
+    + 2022\. New Zealand Rainfall Nowcasting System, RainCast, WMO Aeronautical Meteorology Scientific Webinars.
+    + 2021\. Introduction to cloud-based satellite systems at MetService, 11th AOMSUC & 2021 FY Conference.
+    + 2018\. Global spectral and texture trends as observed from Terra. AGU Fall Meeting.
+    + 2018\. June TOA albedo: A feasible indicator of Arctic September sea ice extent, MISR Science Team Meeting.
+    + 2016\. September sea-ice extent predicted by June reflected solar radiation. 35th International Radiation Symposium.
+    + 2016\. Comparison of CERES and MISR retrieved top-of-atmosphere albedo over the Arctic. AGU Fall Meeting.
 
 languages:
   display: false
