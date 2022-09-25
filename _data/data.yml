@@ -74,18 +74,57 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
-
+    Main research and operational projects I have worked on:
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: (Research) DSC - Cloud and Aerosol Measurements for Improved Climate Projections
+      link: https://deepsouthchallenge.co.nz/research-project/measuring-cloud-and-aerosol-interactions
       details: |
-        Project Foo's detail, you can write markdown format text.
+        2021 - Present
+        + Manage and quality control of the MS ceilometer data across NZ.
+        + Retrieve cloud phase using machine learning.
 
-    - name: Bar
+    - name: (Research) NASA - Multi-Angle Imager for Aaerosols (MAIA) mission
+      link: https://maia.jpl.nasa.gov/
+      details: |
+        2017 - 2020
+        + Developed the MAIA operational cloud mask algorithm (MCM).
+
+    - name: (Research) NASA - ACCESS to TerraFusion project
+      link: https://registry.opendata.aws/terrafusion/
+      details: |
+        2015 - 2017
+        + Developed the Terra fusion dataset (~1.5 PB).
+        + Tested the dataset on the AWS cloud.
+
+    - name: (Operational) MS - Statistical wind/gust nowcasting system
       link:
       details: |
-        Project Bar's detail, you can write markdown format text.
+        2022 - Present
+        + Zarr-based NRT data archiving system.
+        + ML-based statistical wind/gust bias correction system.
+        + Statistical downscaling system.
+
+    - name: (Operational) MS - Implementation of MS satellite Level-2 systems
+      link:
+      details: |
+        2020 - 2022  
+        The operational cloud-native satellite Level-2 systems including:
+        + Cloud property retrieval system (GEOCAT).
+        + Volcanic ash monitor and forecast system (VOLCAT + hysplit).
+        + Convection nowcasting system (NWCGEO).
+
+    - name: (Operational) MS - Quantitative precipitation estimation system
+      link:
+      details: |
+        2020 - 2021  
+        + Determined the best satellite QPE product over NZ.
+        + Developed cloud-native operational QPE system blends gauge, radar, satellite, and NWP.
+
+    - name: (Operational) MS - Enhanced satellite imagery system
+      link: https://twitter.com/MetService/status/1573479428780224512
+      details: |
+        2019 - 2020  
+        + Developed an enhanced satellite imagery system for Himawari-8 and GOES-17.
 
 education:
   display: true
@@ -199,7 +238,7 @@ publications:
 
 patents:
   display: true
-  title: Invited Talks
+  title: Presentations
   details: |
     + 2022\. New Zealand Rainfall Nowcasting System, RainCast, WMO Aeronautical Meteorology Scientific Webinars.
     + 2021\. Introduction to cloud-based satellite systems at MetService, 11th AOMSUC & 2021 FY Conference.
