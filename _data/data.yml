@@ -1,43 +1,43 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Yizhe Zhan
+  title: Remote Sensing Research Scientist / Scientific Algorithm & Application Developer
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: yizhe@illinois.edu
+  phone: +64-210-220-8733
+  website:
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: yzhan-met
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
   linkedin:
   medium:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
 
 profile:
   display: true
-  title: Profile
+  title: HIGHLIGHTS
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    + Ph.D in Atmospheric Phyiscs
+    + Python / Fortran / Bash Shell / MPI
+    + Big data analysis
+    + Statistical / Machine Learning
+    + Linux application development and deployment
 
 experiences:
   display: true
-  title: Experiences
+  title: WORK EXPERIENCE
   items:
     - role: Backend Developer
       time: 2018.03 - 2019.03
