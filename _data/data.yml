@@ -140,19 +140,18 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+    + Skilled in Python and Fortran.
+    + Skilled in managing & exploring big remote sensing data on the AWS cloud, Linux, and supercomputer.
+    + Experienced in using various machine learning methods to solve scientific problems.
+    + Use data pipeline and Jenkins in daily work.
 
   levels:
-    - name: Skill A
+    - name: Programming and data analysis
       level: 90
-    - name: Skill B
+    - name: Scientific report writing
+      level: 90
+    - name: Presentations
       level: 80
-    - name: Skill C
-      level: 70
 
 publications:
   display: true
@@ -182,7 +181,11 @@ publications:
       conference: Earth Science Informatics, 2019
       link:
     - title: Instantaneous top-of-atmosphere albedo comparison between CERES and MISR over the Arctic
-      authors: Zhan Y., Di Girolamo, L., Davies R., and Moroney C.
+      authors: Zhan Y., Di Girolamo, L., Davies R., Moroney C.
+      conference: Remote Sensing, 2018
+      link: https://doi.org/10.3390/rs10121882
+    - title: Three-dimensional cloud volume reconstruction from the Multi-angle Imaging SpectroRadiometer
+      authors: Lee B., Di Girolamo, L., Zhao G., Zhan Y..
       conference: Remote Sensing, 2018
       link: https://doi.org/10.3390/rs10111858
     - title: September Arctic sea-ice extent indicated by reflected solar radiation
@@ -193,6 +196,17 @@ publications:
       authors: Zhan Y., and Davies R.
       conference: Journal of Geophysical Research Atmospheres, 2016
       link: https://doi.org/10.1002/2016JD025073
+
+patents:
+  display: true
+  title: Invited Talks
+  details: |
+    + 2022. New Zealand Rainfall Nowcasting System, RainCast, WMO Aeronautical Meteorology Scientific Webinars.
+    + 2021. Introduction to cloud-based satellite systems at MetService, 11th AOMSUC & 2021 FY Conference.
+    + 2018. Global spectral and texture trends as observed from Terra. AGU Fall Meeting.
+    + 2018. June TOA albedo: A feasible indicator of Arctic September sea ice extent, MISR Science Team Meeting.
+    + 2016. September sea-ice extent predicted by June reflected solar radiation. 35th International Radiation Symposium.
+    + 2016. Comparison of CERES and MISR retrieved top-of-atmosphere albedo over the Arctic. AGU Fall Meeting.
 
 languages:
   display: false
