@@ -9,14 +9,14 @@ contact:
   location:
   email: yizhe@illinois.edu
   phone: +64-210-220-8733
-  website:
+  website: https://atmos.illinois.edu/directory/profile/yizhe
   wechat:
   whatsapp:
   telegram:
   github: yzhan-met
   gitlab:
   bitbucket:
-  googlescholar:
+  googlescholar: https://scholar.google.com/citations?user=kgb1YpYAAAAJ&hl=zh-CN
   researchgate:
   linkedin:
   medium:
@@ -32,32 +32,23 @@ profile:
     + Ph.D in Atmospheric Phyiscs
     + Scientific application development and deployment
     + Proficiency in large-scale data analysis
-    + Familiar with various weather and climate data sets
+    + Experiences with various weather and climate data sets
     + Familiar with RTM, statistics and machine learning
-    + Familiar with the AWS cloud
+    + Work with the AWS cloud
 
 experiences:
   display: true
   title: WORK EXPERIENCE
   items:
-    - role: Senior Research Scientist
-      time: 2022 - Present
-      company: Metservice
-      tag:
-      location: Wellington, NZ
-      details: |
-        Main duty:
-        + Develop and maintain operational satellite systems
-        + Improve and maintain statistical rainfall and wind nowcasting systems
-
     - role: Research Scientist
-      time: 2019 - 2022
+      time: 2019 - Present
       company: Metservice
       tag:
       location: Wellington, NZ
       details: |
         Main duty:
-        + Develop and maintain operational satellite systems
+        + Develop and maintain in-house satellite systems
+        + Improve rainfall and wind nowcasting systems
 
     - role: Adjunct Research Assistant Professor
       time: 2020 - Present
@@ -66,8 +57,18 @@ experiences:
       location: Champaign, US
       details: |
         Main duty:
-        + Help supervising PhD students' research work
+        + Discuss PhD research findings
         + Help with technical questions
+
+    - role: Postdoctoral Research Associate
+      time: 2017 - 2019
+      company: University of Illinois at Urbana-Champaign
+      tag:
+      location: Champaign, US
+      details: |
+        Main achivement:
+        + Developed cloud mask algorithm for NASA's MAIA mission
+        + Analysed global radiance trends using EOS-Terra data
 
 projects:
   display: true
