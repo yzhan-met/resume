@@ -293,14 +293,14 @@ interests:
       link:
 
 evaluation:
-  display: false
-  title: Self-evaluation
+  display: true
+  title: Community services
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
+    Reviewers:
+    + Remote Sensing 
+    + Atmosphere
+    + Journal of Climate
+    + Journal of Geophysical Research: Atmospheres
 
 footer:
   display: false
