@@ -81,7 +81,7 @@ projects:
       details: |
         2021 - Present
         + Manage and quality control of the MS ceilometer data across NZ.
-        + Cloud phase retrieval using machine learning.
+        + Test cloud phase retrieval algorithm using machine learning.
 
     - name: (Research) NASA - Multi-Angle Imager for Aaerosols (MAIA) mission
       link: https://maia.jpl.nasa.gov/
@@ -100,18 +100,18 @@ projects:
       link:
       details: |
         2022 - Present
-        + Zarr-based data archiving system.
-        + ML-based statistical bias correction system.
-        + Statistical downscaling system.
+        + Developed Zarr-based data archiving system.
+        + Implemented ML-based statistical bias correction system.
+        + Tested statistical downscaling system.
 
     - name: (Operational) MS - Implementation of MS satellite Level-2 systems
       link:
       details: |
         2020 - 2022  
         The operational cloud-native satellite Level-2 systems including:
-        + Cloud property retrieval system based on GEOCAT.
-        + Volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
-        + Convection nowcasting system adapted from NWCGEO.
+        + Implemented cloud property retrieval system based on GEOCAT.
+        + Implemented volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
+        + Implemented convection nowcasting system adapted from NWCGEO.
 
     - name: (Operational) MS - Quantitative precipitation estimation system
       link:
@@ -125,7 +125,6 @@ projects:
       details: |
         2019 - 2020  
         + Developed an enhanced satellite imagery system for Himawari-8 and GOES-17.
-        + Images have been widely used by forecasters and for the public.
 
 education:
   display: true
