@@ -81,13 +81,13 @@ projects:
       details: |
         2021 - Present
         + Manage and quality control of the MS ceilometer data across NZ.
-        + Retrieve cloud phase using machine learning.
+        + Cloud phase retrieval using machine learning.
 
     - name: (Research) NASA - Multi-Angle Imager for Aaerosols (MAIA) mission
       link: https://maia.jpl.nasa.gov/
       details: |
         2017 - 2020
-        + Developed the MAIA operational cloud mask algorithm (MCM).
+        + Designed the MAIA operational cloud mask algorithm (MCM).
 
     - name: (Research) NASA - ACCESS to TerraFusion project
       link: https://registry.opendata.aws/terrafusion/
@@ -100,8 +100,8 @@ projects:
       link:
       details: |
         2022 - Present
-        + Zarr-based NRT data archiving system.
-        + ML-based statistical wind/gust bias correction system.
+        + Zarr-based data archiving system.
+        + ML-based statistical bias correction system.
         + Statistical downscaling system.
 
     - name: (Operational) MS - Implementation of MS satellite Level-2 systems
