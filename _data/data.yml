@@ -31,10 +31,10 @@ profile:
   details: |
     + Ph.D in Atmospheric Phyiscs
     + Scientific application development and deployment
-    + Proficiency in large-scale data analysis
-    + Experiences with various weather and climate data sets
-    + Familiar with RTM, statistics and machine learning
-    + Work with the AWS cloud
+    + Proficient in large-scale data analysis
+    + Familiar with various weather and climate data sets
+    + Experience in RTM, statistics and machine learning
+    + Familiar with the AWS cloud
 
 experiences:
   display: true
