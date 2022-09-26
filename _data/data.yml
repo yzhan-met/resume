@@ -125,6 +125,7 @@ projects:
       details: |
         2019 - 2020  
         + Developed an enhanced satellite imagery system for Himawari-8 and GOES-17.
+        + Images have been widely used by forecasters and for the public.
 
 education:
   display: true
@@ -179,18 +180,38 @@ skills:
   display: true
   title: Skills
   details: |
-    + Skilled in Python and Fortran.
-    + Skilled in managing & exploring big remote sensing data on the AWS cloud, Linux, and supercomputer.
-    + Experienced in using various machine learning methods to solve scientific problems.
-    + Use data pipeline and Jenkins in daily work.
+    Coding Skills  
+    + 10 years data analysis experience using **Python**.
+    + 4 years product development experience using **Python**.
+    + 3 years experience of **AWS** cloud.
+    + 3 years experience in HPC.
+    + Familiar with versioning control.
+    + Know CICD and data pipeline.
+
+    Scientific Skills  
+    + Solid domain knowledge in atmospheric science, especially in satellite remote sensing.
+    + Solid statistics knowledge in data analysis using Python.
+    + Basic knowledge of the climate model, IPCC, and CMIP dataset.
+    + Familiar with common geoscience data format such as NetCDF, HDF5, GRIB
+    + Rich experience in running radiative transfer model (e.g., MODTRAN, libRadtran, RRTM).
+    + Rich experience in writing scientific reports and publications.
+    + Experienced in using various machine learning methods to create scientific products.
+
+    Experiences in managing and analysing meteorological data as follows:
 
   levels:
-    - name: Data analysis
-      level: 90
-    - name: Report writing
-      level: 90
-    - name: Presentations
+    - name: Satellite
+      level: 100
+    - name: radar
       level: 80
+    - name: In-situ
+      level: 90
+    - name: Reanalysis
+      level: 90
+    - name: NWP
+      level: 80
+    - name: GCM
+      level: 70
 
 publications:
   display: true
