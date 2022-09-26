@@ -113,6 +113,13 @@ projects:
         + Implemented volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
         + Implemented convection nowcasting system adapted from NWCGEO.
 
+    - name: (Operational) MS - Realtime observation database on the AWS
+      link:
+      details: |
+        2021 - 2022  
+        + Implemented basic quaility control of the in-situ observations and external data sets.
+        + Converted and staged data on the AWS in proper formats.
+
     - name: (Operational) MS - Quantitative precipitation estimation system
       link:
       details: |
