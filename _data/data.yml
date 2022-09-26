@@ -93,7 +93,7 @@ projects:
       link: https://registry.opendata.aws/terrafusion/
       details: |
         2015 - 2017
-        + Developed the Terra fusion dataset (~1.5 PB).
+        + Developed and worked on the Terra fusion dataset (~1.5 PB).
         + Tested the dataset on the AWS cloud.
 
     - name: (Operational) MS - Statistical wind/gust nowcasting system
@@ -109,9 +109,9 @@ projects:
       details: |
         2020 - 2022  
         The operational cloud-native satellite Level-2 systems including:
-        + Cloud property retrieval system (GEOCAT).
-        + Volcanic ash monitor and forecast system (VOLCAT + hysplit).
-        + Convection nowcasting system (NWCGEO).
+        + Cloud property retrieval system based on GEOCAT.
+        + Volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
+        + Convection nowcasting system adapted from NWCGEO.
 
     - name: (Operational) MS - Quantitative precipitation estimation system
       link:
@@ -180,7 +180,7 @@ skills:
   display: true
   title: Skills
   details: |
-    Coding Skills  
+    *Coding Skills*  
     + 10 years data analysis experience using **Python**.
     + 4 years product development experience using **Python**.
     + 3 years experience of **AWS** cloud.
@@ -188,7 +188,7 @@ skills:
     + Familiar with versioning control.
     + Know CICD and data pipeline.
 
-    Scientific Skills  
+    *Scientific Skills*  
     + Solid domain knowledge in atmospheric science, especially in satellite remote sensing.
     + Solid statistics knowledge in data analysis using Python.
     + Basic knowledge of the climate model, IPCC, and CMIP dataset.
@@ -197,7 +197,7 @@ skills:
     + Rich experience in writing scientific reports and publications.
     + Experienced in using various machine learning methods to create scientific products.
 
-    Experiences in managing and analysing meteorological data as follows:
+    *Experiences in managing and analysing meteorological data:*
 
   levels:
     - name: Satellite
