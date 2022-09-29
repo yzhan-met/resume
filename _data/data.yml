@@ -193,12 +193,13 @@ skills:
     + 3 years experience in HPC.
     + Familiar with versioning control.
     + Know CICD and data pipeline.
+    + Familiar with Agile software development.
 
     *Scientific Skills*  
     + Solid domain knowledge in atmospheric science, especially in satellite remote sensing.
     + Solid statistics knowledge in data analysis using Python.
     + Basic knowledge of the climate model, IPCC, and CMIP dataset.
-    + Familiar with common geoscience data format such as NetCDF, HDF5, GRIB
+    + Familiar with common geoscience data format such as NetCDF, HDF5, GRIB, and Zarr
     + Rich experience in running radiative transfer model (e.g., MODTRAN, libRadtran, RRTM).
     + Rich experience in writing scientific reports and publications.
     + Experienced in using various machine learning methods to create scientific products.
@@ -217,7 +218,7 @@ skills:
     - name: NWP
       level: 80
     - name: GCM
-      level: 70
+      level: 80
 
 publications:
   display: true
