@@ -88,6 +88,7 @@ projects:
       details: |
         2017 - 2020
         + Designed the MAIA operational cloud mask algorithm (MCM).
+        + The algorithm had been delivered to JPL for production.
 
     - name: (Research) NASA - ACCESS to TerraFusion project
       link: https://registry.opendata.aws/terrafusion/
@@ -95,6 +96,7 @@ projects:
         2015 - 2017
         + Developed and worked on the Terra fusion dataset (~1.5 PB).
         + Tested the dataset on the AWS cloud.
+        + The product can be accessed from the AWS Open Data.
 
     - name: (Operational) MS - Statistical wind/gust nowcasting system
       link:
@@ -112,6 +114,7 @@ projects:
         + Implemented a cloud property retrieval system based on GEOCAT.
         + Implemented volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
         + Implemented convection nowcasting system adapted from NWCGEO.
+        + These systems have been extensively used by aviation and VAAC.
 
     - name: (Operational) MS - Realtime observation database on the AWS
       link:
@@ -119,6 +122,7 @@ projects:
         2021 - 2022  
         + Implemented basic quality control of the in-situ observations and external data sets.
         + Converted and staged data on the AWS in proper formats.
+        + The system provides a fundamental observation database that has been used in various downstream products.
 
     - name: (Operational) MS - Quantitative precipitation estimation system
       link:
@@ -126,12 +130,14 @@ projects:
         2020 - 2021  
         + Determined the best satellite QPE product over NZ.
         + Developed cloud-native operational QPE system blends gauge, radar, satellite, and NWP.
+        + The product has been widely used by internal and external customers (e.g., city council, TVNZ).
 
     - name: (Operational) MS - Enhanced satellite imagery system
       link: https://twitter.com/MetService/status/1573479428780224512
       details: |
         2019 - 2020  
         + Developed an enhanced satellite imagery system for Himawari-8 and GOES-17.
+        + The system provides a handful of images in realtime for operational and public usage with low latency and high resilience.
 
 education:
   display: true
