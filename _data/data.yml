@@ -29,12 +29,12 @@ profile:
   display: true
   title: HIGHLIGHTS
   details: |
-    + Ph.D in Atmospheric Phyiscs
+    + Ph.D. in Atmospheric Physics
     + Scientific application development and deployment
     + Proficient in large-scale data analysis
     + Familiar with various weather and climate data sets
-    + Experience in RTM, statistics and machine learning
-    + Familiar with the AWS cloud
+    + Experience in RTM, statistics, and machine learning
+    + Experience in AWS cloud
 
 experiences:
   display: true
@@ -52,17 +52,17 @@ experiences:
 
     - role: Adjunct Research Assistant Professor
       time: 2020 - Present
-      company: University of Illinois at Urbana-Champaign
+      company: the University of Illinois at Urbana-Champaign
       tag:
       location: Champaign, US
       details: |
         Main duty:
-        + Discuss PhD research findings
+        + Discuss Ph.D. research findings
         + Help with technical questions
 
     - role: Postdoctoral Research Associate
       time: 2017 - 2019
-      company: University of Illinois at Urbana-Champaign
+      company: the University of Illinois at Urbana-Champaign
       tag:
       location: Champaign, US
       details: |
@@ -74,7 +74,7 @@ projects:
   display: true
   title: Projects
   intro: |
-    Main research and operational projects I have worked on:
+    The main research and operational projects I have worked on:
   items:
     - name: (Research) DSC - Cloud and Aerosol Measurements for Improved Climate Projections
       link: https://deepsouthchallenge.co.nz/research-project/measuring-cloud-and-aerosol-interactions
@@ -83,7 +83,7 @@ projects:
         + Manage and quality control of the MS ceilometer data across NZ.
         + Test cloud phase retrieval algorithm using machine learning.
 
-    - name: (Research) NASA - Multi-Angle Imager for Aaerosols (MAIA) mission
+    - name: (Research) NASA - Multi-Angle Imager for Aerosols (MAIA) mission
       link: https://maia.jpl.nasa.gov/
       details: |
         2017 - 2020
@@ -108,8 +108,8 @@ projects:
       link:
       details: |
         2020 - 2022  
-        The operational cloud-native satellite Level-2 systems including:
-        + Implemented cloud property retrieval system based on GEOCAT.
+        The operational cloud-native satellite Level-2 systems include:
+        + Implemented a cloud property retrieval system based on GEOCAT.
         + Implemented volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
         + Implemented convection nowcasting system adapted from NWCGEO.
 
@@ -117,7 +117,7 @@ projects:
       link:
       details: |
         2021 - 2022  
-        + Implemented basic quaility control of the in-situ observations and external data sets.
+        + Implemented basic quality control of the in-situ observations and external data sets.
         + Converted and staged data on the AWS in proper formats.
 
     - name: (Operational) MS - Quantitative precipitation estimation system
@@ -146,7 +146,7 @@ education:
 
         Dissertation: The Darkening Arctic from Space: Quantification and Application
 
-    - university: Nanjing University of Information, Science and Technology (China)
+    - university: Nanjing University of Information, Science, and Technology (China)
       time: 2010 - 2013
       major: Atmospheric Remote Sensing
       degree: Master
@@ -155,7 +155,7 @@ education:
 
         Dissertation: Preliminary study of retrieving "clear region" AMVs using FY-2E split window data
 
-    - university: Nanjing University of Information, Science and Technology (China)
+    - university: Nanjing University of Information, Science, and Technology (China)
       time: 2006 - 2010
       major: Meteorology
       degree: Bachelor
@@ -187,8 +187,8 @@ skills:
   title: Skills
   details: |
     *Coding Skills*  
-    + 10 years data analysis experience using **Python**.
-    + 4 years product development experience using **Python**.
+    + 10 years of data analysis experience using **Python**.
+    + 4 years of product development experience using **Python**.
     + 3 years experience of **AWS** cloud.
     + 3 years experience in HPC.
     + Familiar with versioning control.
@@ -199,17 +199,17 @@ skills:
     + Solid domain knowledge in atmospheric science, especially in satellite remote sensing.
     + Solid statistics knowledge in data analysis using Python.
     + Basic knowledge of the climate model, IPCC, and CMIP dataset.
-    + Familiar with common geoscience data format such as NetCDF, HDF5, GRIB, and Zarr
-    + Rich experience in running radiative transfer model (e.g., MODTRAN, libRadtran, RRTM).
+    + Familiar with common geoscience data formats such as NetCDF, HDF5, GRIB, and Zarr
+    + Rich experience in running radiative transfer models (e.g., MODTRAN, libRadtran, RRTM).
     + Rich experience in writing scientific reports and publications.
     + Experienced in using various machine learning methods to create scientific products.
 
-    *Experiences in managing and analysing meteorological data:*
+    *Experiences in managing and analyzing meteorological data:*
 
   levels:
     - name: Satellite
       level: 100
-    - name: radar
+    - name: Radar
       level: 80
     - name: In-situ
       level: 90
@@ -233,7 +233,7 @@ publications:
       link: https://doi.org/10.3389/fenvs.2022.917590
     - title: Assessment and Error Analysis of Terra-MODIS and MISR Cloud-Top Heights Through Comparison With ISS-CATS Lidar
       authors: Mitra, A., Di Girolamo, L., Hong, Y., Zhan, Y., & Mueller, K. J.
-      conference: Journal of Geophysical Research Atmospheres, 2021
+      conference: Journal of Geophysical Research - Atmospheres, 2021
       link: https://doi.org/10.1029/2020JD034281
     - title: The Reduction in Near-Global Cloud Cover After Correcting for Biases Caused by Finite Resolution Measurements
       authors: Dutta, S., Di Girolamo, L., Dey, S., Zhan, Y., Moroney, C. M., & Zhao, G.
@@ -252,16 +252,16 @@ publications:
       conference: Remote Sensing, 2018
       link: https://doi.org/10.3390/rs10121882
     - title: Three-dimensional cloud volume reconstruction from the Multi-angle Imaging SpectroRadiometer
-      authors: Lee B., Di Girolamo, L., Zhao G., Zhan Y..
+      authors: Lee B., Di Girolamo, L., Zhao G., Zhan Y.
       conference: Remote Sensing, 2018
       link: https://doi.org/10.3390/rs10111858
     - title: September Arctic sea-ice extent indicated by reflected solar radiation
       authors: Zhan Y., and Davies R.
-      conference: Journal of Geophysical Research Atmospheres, 2017
+      conference: Journal of Geophysical Research - Atmospheres, 2017
       link: https://doi.org/10.1002/2016JD025819
     - title: Intercalibration of CERES, MODIS, and MISR reflected solar radiation and its application to albedo trends
       authors: Zhan Y., and Davies R.
-      conference: Journal of Geophysical Research Atmospheres, 2016
+      conference: Journal of Geophysical Research - Atmospheres, 2016
       link: https://doi.org/10.1002/2016JD025073
 
 patents:
