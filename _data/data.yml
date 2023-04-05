@@ -111,7 +111,7 @@ projects:
     - name: (Operational) MetService - Implementation of MetService satellite Level-2 systems
       link:
       details: |
-        2020 - 2022 (Lead)
+        2020 - 2022 (Lead)  
         The operational AWS-based satellite Level-2 systems include:
         + Cloud property retrieval system based on GEOCAT.
         + Volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
