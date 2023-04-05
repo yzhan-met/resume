@@ -30,25 +30,26 @@ profile:
   title: HIGHLIGHTS
   details: |
     + Ph.D. in Atmospheric Physics
-    + Scientific application development and deployment
+    + Scientific algorithm design and application development
     + Proficient in large-scale data analysis
-    + Familiar with various weather and climate data sets
-    + Experience in RTM, statistics, and machine learning
+    + Experience in various weather and climate datasets
+    + Experience in modelling, statistics, and machine learning
     + Experience in AWS cloud
 
 experiences:
   display: true
   title: WORK EXPERIENCE
   items:
-    - role: Research Scientist
-      time: 2019 - Present
+    - role: Research (Senior) Scientist
+      time: 2019 (2023) - Present
       company: Metservice
       tag:
       location: Wellington, NZ
       details: |
         Main duty:
-        + Develop and maintain in-house satellite systems
+        + Develop and maintain MetService satellite systems
         + Improve rainfall and wind nowcasting systems
+        + Satellite data assimilation
 
     - role: Adjunct Research Assistant Professor
       time: 2020 - Present
@@ -57,8 +58,8 @@ experiences:
       location: Champaign, US
       details: |
         Main duty:
-        + Discuss Ph.D. research findings
-        + Help with technical questions
+        + Analyse Terra climate records
+        + Co-supervise postgraduate students
 
     - role: Postdoctoral Research Associate
       time: 2017 - 2019
@@ -67,8 +68,9 @@ experiences:
       location: Champaign, US
       details: |
         Main work:
-        + Developed cloud mask algorithm for NASA's MAIA mission
-        + Analysed global radiance trends using EOS-Terra data
+        + Designed operational cloud mask algorithm for NASA's MAIA mission
+        + Analysed global radiance trends using Terra data
+        + Quantified TOA albedo differences between CERES and MISR
 
 projects:
   display: true
@@ -76,58 +78,57 @@ projects:
   intro: |
     The main research and operational projects I have worked on:
   items:
-    - name: (Research) DSC - Cloud and Aerosol Measurements for Improved Climate Projections
+    - name: (Research) DeepSouthChallenge - Cloud and Aerosol Measurements for Improved Climate Projections
       link: https://deepsouthchallenge.co.nz/research-project/measuring-cloud-and-aerosol-interactions
       details: |
-        2021 - Present
+        2021 - Present (Co-I)
         + Manage and quality control of the MS ceilometer data across NZ.
         + Test cloud phase retrieval algorithm using machine learning.
 
     - name: (Research) NASA - Multi-Angle Imager for Aerosols (MAIA) mission
       link: https://maia.jpl.nasa.gov/
       details: |
-        2017 - 2020
+        2017 - 2020 (Postdoc)
         + Designed the MAIA operational cloud mask algorithm (MCM).
         + The algorithm had been delivered to JPL for production.
 
     - name: (Research) NASA - ACCESS to TerraFusion project
       link: https://registry.opendata.aws/terrafusion/
       details: |
-        2015 - 2017
-        + Developed and worked on the Terra fusion dataset (~1.5 PB).
+        2015 - 2017 (Postdoc)
+        + Developed the Terra fusion dataset (~1.5 PB).
         + Tested the dataset on the AWS cloud.
         + The product can be accessed from the AWS Open Data.
 
-    - name: (Operational) MS - Statistical wind/gust nowcasting system
+    - name: (Operational) MetService - Statistical wind/gust nowcasting system
       link:
       details: |
-        2022 - Present
+        2022 - Present (Participant)
         + Developed Zarr-based data archiving system.
-        + Implemented ML-based statistical bias correction system.
-        + Tested statistical downscaling system.
+        + Implemented AutoML-based gust bias correction system.
+        + Developed gust verification system.
 
-    - name: (Operational) MS - Implementation of MS satellite Level-2 systems
+    - name: (Operational) MetService - Implementation of MetService satellite Level-2 systems
       link:
       details: |
-        2020 - 2022  
-        The operational cloud-native satellite Level-2 systems include:
-        + Implemented a cloud property retrieval system based on GEOCAT.
-        + Implemented volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
-        + Implemented convection nowcasting system adapted from NWCGEO.
-        + These systems have been extensively used by aviation and VAAC.
+        2020 - 2022 (Lead)
+        The operational AWS-based satellite Level-2 systems include:
+        + Cloud property retrieval system based on GEOCAT.
+        + Volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
+        + Convection nowcasting system adapted from NWCGEO.
 
-    - name: (Operational) MS - Realtime observation database on the AWS
+    - name: (Operational) MetService - Realtime observation database on the AWS
       link:
       details: |
-        2021 - 2022  
+        2021 - 2022 (Participant)
         + Implemented basic quality control of the in-situ observations and external data sets.
         + Converted and staged data on the AWS in proper formats.
-        + The system provides a fundamental observation database that has been used in various downstream products.
+        + The developed system provides a fundamental observation database for downstream products.
 
-    - name: (Operational) MS - Quantitative precipitation estimation system
+    - name: (Operational) MetService - Quantitative precipitation estimation system
       link:
       details: |
-        2020 - 2021  
+        2020 - 2021 (Participant)
         + Determined the best satellite QPE product over NZ.
         + Developed cloud-native operational QPE system blends gauge, radar, satellite, and NWP.
         + The product has been widely used by internal and external customers (e.g., city council, TVNZ).
@@ -135,7 +136,7 @@ projects:
     - name: (Operational) MS - Enhanced satellite imagery system
       link: https://twitter.com/MetService/status/1573479428780224512
       details: |
-        2019 - 2020  
+        2019 - 2020 (Lead)
         + Developed an enhanced satellite imagery system for Himawari-8 and GOES-17.
         + The system provides a handful of images in realtime for operational and public usage with low latency and high resilience.
 
@@ -198,14 +199,14 @@ skills:
     + 3 years experience of **AWS** cloud.
     + 3 years experience in HPC.
     + Familiar with versioning control.
-    + Know CICD and data pipeline.
+    + Basic knowledge CICD and data pipeline.
     + Familiar with Agile software development.
 
     *Scientific Skills*  
     + Solid domain knowledge in atmospheric science, especially in satellite remote sensing.
     + Solid statistics knowledge in data analysis using Python.
-    + Basic knowledge of the climate model, IPCC, and CMIP dataset.
     + Familiar with common geoscience data formats such as NetCDF, HDF5, GRIB, and Zarr
+    + Familiar with the climate model, IPCC, and CMIP dataset.
     + Rich experience in running radiative transfer models (e.g., MODTRAN, libRadtran, RRTM).
     + Rich experience in writing scientific reports and publications.
     + Experienced in using various machine learning methods to create scientific products.
@@ -224,7 +225,7 @@ skills:
     - name: NWP
       level: 80
     - name: GCM
-      level: 80
+      level: 90
 
 publications:
   display: true
@@ -294,9 +295,9 @@ interests:
   display: false
   title: Interests
   items:
-    - item: Reading
+    - item: Coding
       link:
-    - item: Cooking
+    - item: Hiking
       link:
 
 evaluation:
