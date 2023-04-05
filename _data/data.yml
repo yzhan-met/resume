@@ -216,16 +216,16 @@ skills:
   levels:
     - name: Satellite
       level: 100
-    - name: Radar
-      level: 80
+    - name: GCM
+      level: 90
     - name: In-situ
       level: 90
     - name: Reanalysis
       level: 90
+    - name: Radar
+      level: 80
     - name: NWP
       level: 80
-    - name: GCM
-      level: 90
 
 publications:
   display: true
