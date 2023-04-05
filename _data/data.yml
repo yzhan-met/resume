@@ -78,10 +78,10 @@ projects:
   intro:
 
   items:
-    - name: Research projects
+    - name:   
       link:
       details: |
-        Research projects I have been working on.
+        Research projects
 
     - name: DeepSouthChallenge - Cloud and Aerosol Measurements for Improved Climate Projections
       link: https://deepsouthchallenge.co.nz/research-project/measuring-cloud-and-aerosol-interactions
@@ -105,10 +105,10 @@ projects:
         + Tested the dataset on the AWS cloud.
         + The product can be accessed from the AWS Open Data.
 
-    - name: Operational projects
+    - name:   
       link:
       details: |
-        Operational projects I have been working on.
+        Operational projects
 
     - name: MetService - Statistical wind/gust nowcasting system
       link:
