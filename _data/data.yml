@@ -78,10 +78,9 @@ projects:
   intro:
 
   items:
-    - name:   
+    - name: Research projects
       link:
       details: |
-        Research projects
 
     - name: DeepSouthChallenge - Cloud and Aerosol Measurements for Improved Climate Projections
       link: https://deepsouthchallenge.co.nz/research-project/measuring-cloud-and-aerosol-interactions
@@ -105,11 +104,10 @@ projects:
         + Tested the dataset on the AWS cloud.
         + The product can be accessed from the AWS Open Data.
 
-    - name:   
+    - name: Operational projects
       link:
       details: |
-        Operational projects
-
+        
     - name: MetService - Statistical wind/gust nowcasting system
       link:
       details: |
