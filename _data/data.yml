@@ -75,32 +75,42 @@ experiences:
 projects:
   display: true
   title: Projects
-  intro: |
-    The main research and operational projects I have worked on:
+  intro:
+
   items:
-    - name: (Research) DeepSouthChallenge - Cloud and Aerosol Measurements for Improved Climate Projections
+    - name: Research projects
+      link:
+      details: |
+        Research projects I have been working on.
+
+    - name: DeepSouthChallenge - Cloud and Aerosol Measurements for Improved Climate Projections
       link: https://deepsouthchallenge.co.nz/research-project/measuring-cloud-and-aerosol-interactions
       details: |
         2021 - Present (Co-I)
         + Manage and quality control of the MS ceilometer data across NZ.
         + Test cloud phase retrieval algorithm using machine learning.
 
-    - name: (Research) NASA - Multi-Angle Imager for Aerosols (MAIA) mission
+    - name: NASA - Multi-Angle Imager for Aerosols (MAIA) mission
       link: https://maia.jpl.nasa.gov/
       details: |
-        2017 - 2020 (Postdoc)
+        2018 - 2020 (Postdoc)
         + Designed the MAIA operational cloud mask algorithm (MCM).
         + The algorithm had been delivered to JPL for production.
 
-    - name: (Research) NASA - ACCESS to TerraFusion project
+    - name: NASA - ACCESS to TerraFusion project
       link: https://registry.opendata.aws/terrafusion/
       details: |
-        2015 - 2017 (Postdoc)
+        2017 - 2019 (Postdoc)
         + Developed the Terra fusion dataset (~1.5 PB).
         + Tested the dataset on the AWS cloud.
         + The product can be accessed from the AWS Open Data.
 
-    - name: (Operational) MetService - Statistical wind/gust nowcasting system
+    - name: Operational projects
+      link:
+      details: |
+        Operational projects I have been working on.
+
+    - name: MetService - Statistical wind/gust nowcasting system
       link:
       details: |
         2022 - Present (Participant)
@@ -108,7 +118,7 @@ projects:
         + Implemented AutoML-based gust bias correction system.
         + Developed gust verification system.
 
-    - name: (Operational) MetService - Implementation of MetService satellite Level-2 systems
+    - name: MetService - Implementation of MetService satellite Level-2 systems
       link:
       details: |
         2020 - 2022 (Lead)  
@@ -117,7 +127,7 @@ projects:
         + Volcanic ash monitor and forecast system leveraging VOLCAT and hysplit.
         + Convection nowcasting system adapted from NWCGEO.
 
-    - name: (Operational) MetService - Realtime observation database on the AWS
+    - name: MetService - Realtime observation database on the AWS
       link:
       details: |
         2021 - 2022 (Participant)
@@ -125,7 +135,7 @@ projects:
         + Converted and staged data on the AWS in proper formats.
         + The developed system provides a fundamental observation database for downstream products.
 
-    - name: (Operational) MetService - Quantitative precipitation estimation system
+    - name: MetService - Quantitative precipitation estimation system
       link:
       details: |
         2020 - 2021 (Participant)
@@ -133,7 +143,7 @@ projects:
         + Developed cloud-native operational QPE system blends gauge, radar, satellite, and NWP.
         + The product has been widely used by internal and external customers (e.g., city council, TVNZ).
 
-    - name: (Operational) MS - Enhanced satellite imagery system
+    - name: MetService - Enhanced satellite imagery system
       link: https://twitter.com/MetService/status/1573479428780224512
       details: |
         2019 - 2020 (Lead)
